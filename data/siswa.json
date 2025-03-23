@@ -1,0 +1,114 @@
+[
+    {
+        "kode_siswa": "101122",
+        "nama_siswa": "Fahri",
+        "alamat": "Kebalen",
+        "tanggal": "13-09-1999",
+        "jurusan": "Barista"
+    },
+    {
+        "kode_siswa": "112233",
+        "nama_siswa": "Dinda",
+        "alamat": "Kranji",
+        "tanggal": "13-04-2002",
+        "jurusan": "Junior web dev"
+    },
+    {
+        "kode_siswa": "123344",
+        "nama_siswa": "Salsabila",
+        "alamat": "Pondok ungu",
+        "tanggal": "09-10-2002",
+        "jurusan": "Elektronika"
+    },
+    {
+        "kode_siswa": "133344",
+        "nama_siswa": "Alfiani",
+        "alamat": "Pondok ungu permai",
+        "tanggal": "10-10-2000",
+        "jurusan": "Junior web dev"
+    },
+    {
+        "kode_siswa": "144455",
+        "nama_siswa": "Rachel",
+        "alamat": "Djuanda",
+        "tanggal": "06-11-2002",
+        "jurusan": "Conten Creator"
+    },
+    {
+        "kode_siswa": "155566",
+        "nama_siswa": "Dwi",
+        "alamat": "Bulak kapal",
+        "tanggal": "29-06-1999",
+        "jurusan": "Junior web dev"
+    },
+    {
+        "kode_siswa": "166677",
+        "nama_siswa": "Fatul",
+        "alamat": "Kranji",
+        "tanggal": "14-01-2003",
+        "jurusan": "Elektronika"
+    },
+    {
+        "kode_siswa": "177788",
+        "nama_siswa": "Rizki",
+        "alamat": "Babelan",
+        "tanggal": "04-03-1998",
+        "jurusan": "Welding Foreman"
+    },
+    {
+        "kode_siswa": "188899",
+        "nama_siswa": "Ilham",
+        "alamat": "Perumnas",
+        "tanggal": "15-03-1999",
+        "jurusan": "Teknisi AC"
+    },
+    {
+        "kode_siswa": "199911",
+        "nama_siswa": "Andini",
+        "alamat": "Jakasampurna",
+        "tanggal": "17-04-2004",
+        "jurusan": "Pariwisata"
+    },
+    {
+        "kode_siswa": "201122",
+        "nama_siswa": "Meta",
+        "alamat": "Harapan jaya",
+        "tanggal": "05-08-2006",
+        "jurusan": "Perhotelan"
+    },
+    {
+        "kode_siswa": "211122",
+        "nama_siswa": "Difa",
+        "alamat": "Demak",
+        "tanggal": "14-06-2006",
+        "jurusan": "Junior web dev"
+    },
+    {
+        "kode_siswa": "221133",
+        "nama_siswa": "Gilang",
+        "alamat": "Kranji",
+        "tanggal": "05-02-1997",
+        "jurusan": "Welding Foreman"
+    },
+    {
+        "kode_siswa": "231133",
+        "nama_siswa": "Rachmat Ilham",
+        "alamat": "Tanjung priok",
+        "tanggal": "17-08-2001",
+        "jurusan": "Animator muda"
+    },
+    {
+        "kode_siswa": "241122",
+        "nama_siswa": "Margareta",
+        "alamat": "Alinda",
+        "tanggal": "04-06-2002",
+        "jurusan": "Perhotelan"
+    },
+    {
+        "kode_siswa": "251122",
+        "nama_siswa": "Nining Aespa",
+        "alamat": "Cikarang",
+        "tanggal": "12-06-2002",
+        "jurusan": "Perhotelan"
+    }
+]
